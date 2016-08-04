@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">帮你麻</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">设置</string>
+    <string name="action_more">更多</string>
+    <string name="detail">\u0020 \u0020 \u0020 \u0020碰碰胡1台，混1色胡1台，杠上开胡1台，手上剩1张胡1台，无花无字胡1台，抢杠胡1台，抓牌最后1张胡1台（同时自己手上也只有1张牌，不能算2台，只算1台）;\n \u0020 \u0020 \u0020 \u0020“春夏秋冬”算2台，“梅兰菊竹”同样道理；但是，你要是都有了“春夏秋冬，梅兰菊竹”，那直接就可以胡了，八仙过海。</string>
+
+</resources>
